@@ -1,4 +1,4 @@
-import layout from "@/app/layout";
+
 
 const Home = () => {
     return (

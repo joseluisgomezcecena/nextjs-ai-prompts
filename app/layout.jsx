@@ -5,7 +5,7 @@ export const metadata = {
     description: 'Layout',
 }
 
-const Rootlayout = () => {
+const Rootlayout = ({children}) => {
   return (
       <html lang="en">
         <body>
